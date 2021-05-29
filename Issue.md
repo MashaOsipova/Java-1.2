@@ -2,7 +2,9 @@
 
 ### Материалы для тестирования
 [Домашнее задание](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+
 [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+
 [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 ### Шаги для воспроизведения
 
