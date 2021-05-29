@@ -6,12 +6,14 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
-[Issue](https://github.com/MashaOsipova/Java-1.2/issues/2#issue-900704208)
+[Issue](https://github.com/MashaOsipova/Java-1.2/blob/9969449d023dc9a2426ec6be6cc515f36bbab990/Issue.md)
 
 ### В процессе тестирования использовались следующие артефакты: 
 
 [Домашнее задание](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+
 [Инструкция по установке ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+
 [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
