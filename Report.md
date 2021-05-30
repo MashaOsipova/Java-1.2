@@ -6,7 +6,7 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
-[Issue](https://github.com/MashaOsipova/Java-1.2/issues/2#issue-900704208)
+[Запуск приложения KeyValidator](https://github.com/MashaOsipova/Java-1.2/issues/2#issue-900704208)
 
 ### В процессе тестирования использовались следующие артефакты: 
 
